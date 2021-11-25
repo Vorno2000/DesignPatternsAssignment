@@ -3,6 +3,6 @@ The application is simple but its the structure of the coding and the design pat
 
 Template Design Pattern, Decorator Design Pattern & Observer Design Pattern are all used in this project.
 
-Coding can be viewed in the /src folder
+Coding can be viewed in the /ProcessApplication/src folder
 
 To get a brief view of the application, refer to the Screenshots.
