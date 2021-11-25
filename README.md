@@ -1,2 +1,8 @@
-# DesignPatternsAssignment
-Grade: 42/50 | This is an assignment which utilizes the Template, Decorator &amp; Observer design patterns. Clients connect to the server where the area &amp; perimeter of a selected shape is calculated. The server keeps track of which task is for which client and is controlled using the various design patterns
+# Overview
+The application is simple but its the structure of the coding and the design pattern usage that is important.        
+
+Template Design Pattern, Decorator Design Pattern & Observer Design Pattern are all used in this project.
+
+Coding can be viewed in the /src folder
+
+To get a brief view of the application, refer to the Screenshots.
